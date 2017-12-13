@@ -1,0 +1,27 @@
+[
+  {
+    "MenuName": "商品信息导入",
+    "Menu_no": "",
+    "Menu_level": 1,
+    "DataTable": "SYS_YP_YPJBXX"
+  },
+  {
+    "MenuName": "药品分类导入",
+    "Menu_no": "",
+    "Menu_level": 1,
+    "DataTable": "SYS_YP_YPFL"
+  },
+  {
+    "MenuName": "药品库存导入",
+    "Menu_no": "",
+    "Menu_level": 1,
+    "DataTable": "YK_YPKC"
+  },
+  {
+    "MenuName": "药品生产厂家",
+    "Menu_no": "",
+    "Menu_level": 1,
+    "DataTable": "SYS_YP_YPSCCJ"
+  }
+
+]
